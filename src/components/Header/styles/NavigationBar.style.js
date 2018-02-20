@@ -13,12 +13,13 @@ const styles = StyleSheet.create({
         alignContent: 'center',
         height: 60,
         width: 365,
-        backgroundColor: '#6cafda',
+        backgroundColor: '#56567d',
     },
     btn:{
+        paddingBottom: 10,
         height: 65,
-        width: 80,
-        margin: 2,
+        width: 70,
+        margin: 4,
 
     },
     txt:{
@@ -27,7 +28,7 @@ const styles = StyleSheet.create({
         marginLeft: 'auto',
         marginRight: 'auto',
         color: 'white',
-        fontSize: 23,
+        fontSize: 25,
         fontWeight: 'bold',
     }
   });
